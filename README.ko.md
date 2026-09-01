@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 103 프로젝트 배너" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 103｜선명한 추상 조합
