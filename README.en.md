@@ -45,6 +45,15 @@ Photographs often carry more detail than a poster needs. **Panel 103** keeps the
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -63,22 +72,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Identity, pose, relationships, atmosphere, and source-derived colour remain intact instead of being replaced |
 | **Where it works** | Independent publishing, exhibition posters, art covers, social graphics, design-only art, multiple ratios, and wallpapers |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-identify the most memorable subject and relationships → remove the complete scene and surplus detail → compress into a few large colour fields and contours → rebuild through misregistration, overlap, cropping, and whitespace → brighten the source's most vital colours → finish the rhythm with sparse editorial type
-```
-
-## Recognisable finished traits
-
-- Large colour fields avoid realistic rendering while retaining the source's spirit through contour, pose, and relationships.
-- Cut-paper edges, varied hand-drawn lines, partial cover, gaps, and misregistration create controlled spontaneity.
-- Sky blue, aqua, tender green, warm yellow, coral, or peach appear only when naturally derived from the source, balanced by warm-white space.
-- Visual gravity, positive and negative form, density, and whitespace keep the apparently casual composition professionally balanced.
-- Sparse type sits between handwritten titling and modern editorial design; avoid realistic illustration, complete backgrounds, cartoons, templates, and overtly computer-generated polish.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-103-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
