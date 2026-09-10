@@ -11,23 +11,18 @@
 
 ## 样张展示
 
-**16:9 横版左右样张**
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 竖版上下样张**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 103 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
-
-<!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
 
 照片里真正让人记住的，往往不是所有细节，而是一个轮廓、一段关系或一种情绪。**Panel 103** 会保留上方真实照片，并在设计区域把这些关键线索压缩为鲜活的大色块、手绘线条与有呼吸感的抽象拼合，让复杂画面变得轻快、清晰，又保有原场景的精神核心。
