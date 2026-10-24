@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 103｜Vivid Abstract Assembly: distils the subject, pose, story and mood of a photo into a bold abstract assembly of large colour blocks — irregular cut-paper-like shapes that shift, overlap, crop and leave gaps, rough improvised hand-drawn lines of varying weight, a sense of chance held in a balanced, professional layout with clear visual weight and generous warm white space, bright colours lifted from the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach) in clean warm-cool contrast, and a few words in a loose, slightly misaligned art lettering between handwriting and modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-103 or asks for abstract colour-block collage, cut-paper assembly or experimental exhibition-poster art from a photo.",
+  "short_description": "鲜彩抽象拼：把照片拆成鲜亮的不规则色块和粗糙手绘线，拼成留白充足的抽象画",
+  "zh-CN": {
+    "name": "鲜彩抽象拼",
+    "tagline": "把照片拆成鲜亮的大色块和粗糙手绘线，重新拼成一幅抽象画。",
+    "look": "不保留完整场景，只把主体、姿态和氛围压缩成几块不规则的大色块，边缘像剪纸，块面之间会错位、叠压、裁切或留出缝隙，再配几道粗细不一的即兴手绘线。看起来随手，但重心、比例和留白都安排得很稳，仍能感到原来的东西或场景。颜色取自照片最亮最鲜的部分，提纯成天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉等，冷暖对比干净，铺在大片暖白底上。文字只有极少的字词，用略带手工错位的艺术字，贴着色块边缘或悬在留白里。",
+    "traits": ["不规则大色块", "剪贴边缘", "粗糙即兴线条", "明快冷暖对比", "重心与留白", "实验出版物气质"],
+    "good": [
+      "有鲜明颜色和简单大形的照片：海边的遮阳伞、花束、彩色建筑",
+      "能用几块形状说清的主体或姿态：跳水的人、一条狗奔跑、一棵树",
+      "想做成展览海报、独立刊物封面或抽象壁纸的照片"
+    ],
+    "poor": [
+      "需要看清是谁、是什么细节的照片：肖像、产品、文字招牌",
+      "颜色灰暗、靠阴沉氛围取胜的照片，颜色会被提亮变轻快",
+      "想要写实插画、完整背景、卡通或规整模板版式的需求"
+    ]
+  },
+  "en": {
+    "name": "Vivid Abstract Assembly",
+    "tagline": "Breaks a photo into bright colour blocks and rough hand-drawn lines, reassembled as an abstract picture.",
+    "look": "The full scene is not kept: the subject, pose and mood are compressed into a few large irregular colour blocks with cut-paper edges that shift, overlap, crop or leave gaps, joined by a few improvised hand-drawn lines of varying weight. It looks casual, yet weight, proportion and whitespace are carefully balanced, and the original thing or place still comes through. Colours come from the brightest parts of the photo, purified into sky blue, lake teal, fresh green, warm yellow, coral and peach in clean warm-cool contrast over wide warm white ground. Only a few words appear, in loose, slightly misaligned art lettering that hugs a block edge or floats in the space.",
+    "traits": ["Irregular colour blocks", "Cut-paper edges", "Rough improvised lines", "Bright warm-cool contrast", "Balance and whitespace", "Experimental print feel"],
+    "good": [
+      "Photos with strong colour and simple big shapes: beach umbrellas, a bouquet, painted buildings",
+      "Subjects or poses that a few shapes can carry: a diver, a running dog, a tree",
+      "Photos you want as an exhibition poster, an independent magazine cover or an abstract wallpaper"
+    ],
+    "poor": [
+      "Photos where you need to see who or what exactly: portraits, products, signs with text",
+      "Dull photos that rely on a sombre mood, since colours are brightened and lightened",
+      "Requests for realistic illustration, a full background, cartoons or a tidy template layout"
+    ]
+  },
+  "ja": {
+    "name": "鮮彩抽象アセンブリ",
+    "tagline": "写真を鮮やかな大きな色面と粗い手描き線に分け、抽象画として組み直します。",
+    "look": "場面全体は残さず、主役と姿勢、空気感をいくつかの不揃いな大きな色面にまとめます。縁は切り紙のようで、色面どうしはずれたり重なったり切れたり、すき間を残したりし、太さの違う即興的な手描き線が数本加わります。気ままに見えて、重心、比率、余白はしっかり整えられ、元のものや場所の気配は残ります。色は写真のいちばん明るい部分から取り、空色、湖の青緑、若草色、暖かな黄、コーラル、ピーチなどに澄ませ、すっきりした寒暖の対比で広い温かな白地にのせます。文字はほんの数語だけで、手仕事のずれがあるアート文字が色面の縁に沿ったり余白に浮かんだりします。",
+    "traits": ["不揃いな大きな色面", "切り紙の縁", "粗い即興の線", "明るい寒暖の対比", "重心と余白", "実験的な出版物の雰囲気"],
+    "good": [
+      "色がはっきりして形が大きく単純な写真：海辺のパラソル、花束、カラフルな建物",
+      "いくつかの形で伝わる主役や姿勢：飛び込む人、走る犬、一本の木",
+      "展覧会のポスター、インディー誌の表紙、抽象的な壁紙にしたい写真"
+    ],
+    "poor": [
+      "誰なのか、何なのかを細部まで見せたい写真：ポートレート、商品、文字のある看板",
+      "暗く沈んだ空気で見せる写真（色が明るく軽やかに変わります）",
+      "写実的なイラスト、背景まで描き込んだ絵、カートゥーン、整ったテンプレート風レイアウトを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "선명한 추상 조합",
+    "tagline": "사진을 선명한 큰 색면과 거친 손그림 선으로 나눠 추상화로 다시 조합합니다.",
+    "look": "장면 전체를 남기지 않고, 주인공과 자세, 분위기를 몇 개의 불규칙한 큰 색면으로 압축합니다. 가장자리는 종이를 오린 듯하고, 색면들은 어긋나고 겹치고 잘리거나 틈을 남기며, 굵기가 다른 즉흥적인 손그림 선 몇 줄이 더해집니다. 무심해 보이지만 무게중심, 비율, 여백은 안정적으로 맞춰져 있어 원래 대상이나 장소의 느낌이 남습니다. 색은 사진의 가장 밝은 부분에서 가져와 하늘색, 호수빛 청록, 연둣빛, 따뜻한 노랑, 코럴, 피치 등으로 맑게 다듬고, 깔끔한 한난 대비로 넓은 따뜻한 흰 바탕 위에 놓습니다. 글자는 몇 단어뿐이며, 손맛 있는 어긋남이 있는 아트 레터링이 색면 가장자리에 붙거나 여백에 떠 있습니다.",
+    "traits": ["불규칙한 큰 색면", "오린 종이 가장자리", "거친 즉흥 선", "밝은 한난 대비", "무게중심과 여백", "실험적 출판물 분위기"],
+    "good": [
+      "색이 뚜렷하고 형태가 크고 단순한 사진: 바닷가 파라솔, 꽃다발, 알록달록한 건물",
+      "몇 개의 형태로 전달되는 주인공이나 자세: 다이빙하는 사람, 달리는 개, 나무 한 그루",
+      "전시 포스터, 독립 잡지 표지, 추상 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "누구인지, 무엇인지 세부까지 보여야 하는 사진: 인물 사진, 제품, 글자 간판",
+      "어둡고 가라앉은 분위기가 핵심인 사진(색이 밝고 가볍게 바뀝니다)",
+      "사실적 일러스트, 배경까지 다 그린 그림, 카툰, 반듯한 템플릿 레이아웃을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تركيب تجريدي نابض",
+    "tagline": "يفكك الصورة إلى كتل لونية زاهية وخطوط يدوية خشنة، ثم يعيد تركيبها لوحةً تجريدية.",
+    "look": "لا يُحتفظ بالمشهد كاملاً، بل يُضغط العنصر ووضعيته وأجواؤه في بضع كتل لونية كبيرة غير منتظمة بحواف كالورق المقصوص، تنزاح وتتراكب وتنقطع أو تترك فجوات، وتربطها بضعة خطوط يدوية مرتجلة متفاوتة السماكة. تبدو عفوية، لكن الثقل والنِّسب والفراغ موزونة بعناية، ويظل الشيء أو المكان الأصلي حاضراً. تُؤخذ الألوان من أزهى أجزاء الصورة وتُصفّى إلى أزرق سماوي وأخضر مزرق وأخضر طري وأصفر دافئ ومرجاني وخوخي، بتباين نظيف بين الدافئ والبارد فوق أرضية بيضاء دافئة واسعة. لا تظهر إلا كلمات قليلة بحروف فنية مرتخية منحرفة قليلاً، تلتصق بحافة كتلة أو تطفو في الفراغ.",
+    "traits": ["كتل لونية غير منتظمة", "حواف ورق مقصوص", "خطوط مرتجلة خشنة", "تباين دافئ وبارد زاهٍ", "توازن وفراغ", "روح مطبوعات تجريبية"],
+    "good": [
+      "صور فيها ألوان قوية وأشكال كبيرة بسيطة: مظلات الشاطئ، باقة زهور، مبانٍ ملونة",
+      "عناصر أو وضعيات تكفيها بضعة أشكال: غطّاس، كلب يركض، شجرة",
+      "صور تريدها ملصق معرض أو غلاف مجلة مستقلة أو خلفية تجريدية"
+    ],
+    "poor": [
+      "صور تحتاج فيها إلى رؤية من أو ما هو بالضبط: الصور الشخصية، المنتجات، اللافتات المكتوبة",
+      "الصور الباهتة التي تقوم على جو قاتم، إذ تُفتَّح ألوانها وتخف",
+      "طلب رسم واقعي أو خلفية كاملة أو كرتون أو تنضيد قالبي مرتب"
+    ]
+  }
+}

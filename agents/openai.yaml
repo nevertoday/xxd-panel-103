@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-103"
-  short_description: "Turn images into vivid abstract colour-block compositions."
-  default_prompt: "Use $xxd-panel-103 on one image or an image directory. Keep its bundled Chinese original brief as the sole aesthetic authority, preserve each source independently, resolve delivery settings once for a batch, and create fresh raster outputs in the requested modes and sizes."
+  short_description: "鲜彩抽象拼：把照片拆成鲜亮的不规则色块和粗糙手绘线，拼成留白充足的抽象画"
+  default_prompt: "Use $xxd-panel-103 to turn my photo into Vivid Abstract Assembly artwork."
 
 policy:
   allow_implicit_invocation: true

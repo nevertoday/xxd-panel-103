@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-103
-description: "Create XXD Panel 103 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-103 or requests the exact Panel 103 style."
+description: "XXD Panel 103｜Vivid Abstract Assembly: distils the subject, pose, story and mood of a photo into a bold abstract assembly of large colour blocks — irregular cut-paper-like shapes that shift, overlap, crop and leave gaps, rough improvised hand-drawn lines of varying weight, a sense of chance held in a balanced, professional layout with clear visual weight and generous warm white space, bright colours lifted from the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach) in clean warm-cool contrast, and a few words in a loose, slightly misaligned art lettering between handwriting and modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-103 or asks for abstract colour-block collage, cut-paper assembly or experimental exhibition-poster art from a photo."
 ---
 
 # XXD Panel 103
